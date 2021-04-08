@@ -1,0 +1,10 @@
+1,A:16,B:32,C:64,[D]:None
+2,A:Zim Den,[B]:Guido van Rossum,C:Niene Stom,D:Wick van Rossum
+3,A:1995,B:1972,C:1981,[D]:1989
+4,A:English,B:PHP,[C]:C       ,D:ALL
+5,[A]:.py,B:.python,C:.p,D:None
+6,[A]:2008,B:2000,C:2010,D:2005
+7,A:Key         ,B:Brackets,[C]:Indentation,D:None
+8,A:/,B://,[C]:#,D:!
+9,A:Classes are real-world entities while objects are not real,[B]:Objects are real-world entities while classes are not real,C:Both objects and classes are real-world entities           ,D:All
+10,A:Object,[B]:Function,[C]:Attribute,D:Argument
